@@ -1,0 +1,15 @@
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\ta2\obj\Debug\net6.0\ta2.csproj.AssemblyReference.cache
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\ta2\obj\Debug\net6.0\ta2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\ta2\obj\Debug\net6.0\ta2.AssemblyInfoInputs.cache
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\ta2\obj\Debug\net6.0\ta2.AssemblyInfo.cs
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\ta2\obj\Debug\net6.0\ta2.csproj.CoreCompileInputs.cache
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\ta2\bin\Debug\net6.0\ta2.exe
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\ta2\bin\Debug\net6.0\ta2.deps.json
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\ta2\bin\Debug\net6.0\ta2.runtimeconfig.json
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\ta2\bin\Debug\net6.0\ta2.dll
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\ta2\bin\Debug\net6.0\ta2.pdb
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\ta2\obj\Debug\net6.0\ta2.dll
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\ta2\obj\Debug\net6.0\refint\ta2.dll
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\ta2\obj\Debug\net6.0\ta2.pdb
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\ta2\obj\Debug\net6.0\ta2.genruntimeconfig.cache
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin4\ta2\obj\Debug\net6.0\ref\ta2.dll
